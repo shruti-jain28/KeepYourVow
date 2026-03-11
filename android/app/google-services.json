@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745004732018",
+    "project_id": "keep-your-vow",
+    "storage_bucket": "keep-your-vow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745004732018:android:83d842fc1b3f64eb933ceb",
+        "android_client_info": {
+          "package_name": "com.shrutijain.keepyourvow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGLGi6VwtP786dzCPbBYHCgNxx5IhPNVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

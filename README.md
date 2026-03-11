@@ -1,7 +1,7 @@
 # KeepYourVow
 
 <p align="center">
-  <img src="web/favicon.png" alt="KeepYourVow Logo" width="120" />
+  <img src="assets/icon/app_icon.png" alt="KeepYourVow Logo" width="120" />
 </p>
 
 <p align="center">
